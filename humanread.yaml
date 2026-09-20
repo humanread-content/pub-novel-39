@@ -1,0 +1,69 @@
+version: 1
+title: 'El jardín de cuentos de Tao: Reparar el corral'
+slug: translation-34-es-f45b1b
+summary: Una tabla suelta y un «mañana lo arreglo» dejan escapar al corderito de pañuelo
+  azul. Tao y Ahe siguen sus huellas y reparan el problema. Seis escenas ilustradas
+  con animación CSS.
+cover_color: '#458f87'
+cover_asset: assets/72e19d7ed4bfd6f0ad6487faa81550c5f8dcab42cf572838fabad210e9cec1e4.webp
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: es
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: 5690be4f76179b8756c88463ad789257f29703f560153a2a87fbd017893f57ed
+  source_novel_id: 34
+  source_slug: novel-2b1c76e1-225d9c
+  source_title: 小桃的成語小院：亡羊補牢
+  source_version_id: 72
+  target_language: es
+  translator: Humanread Founder
+chapters:
+- id: 743
+  title: Mañana lo arreglo
+  position: 1
+  file: chapters/0001-743.html
+  format: sandbox-html-css
+  share_card: null
+- id: 744
+  title: Solo llegaba a dos
+  position: 2
+  file: chapters/0002-744.html
+  format: sandbox-html-css
+  share_card: null
+- id: 745
+  title: Un destello azul
+  position: 3
+  file: chapters/0003-745.html
+  format: sandbox-html-css
+  share_card: null
+- id: 746
+  title: Volver no lo resuelve todo
+  position: 4
+  file: chapters/0004-746.html
+  format: sandbox-html-css
+  share_card: null
+- id: 747
+  title: Enderezar y sujetar
+  position: 5
+  file: chapters/0005-747.html
+  format: sandbox-html-css
+  share_card: null
+- id: 748
+  title: Empezar hoy
+  position: 6
+  file: chapters/0006-748.html
+  format: sandbox-html-css
+  share_card: null
